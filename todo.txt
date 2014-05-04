@@ -1,0 +1,5 @@
+2) 
+   hyper link is given to each questions on click of the question control will go to myown.php in that u need to display the question and 
+   all the answers to that question create a new table for question and its answers
+
+
